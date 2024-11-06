@@ -1,1 +1,21 @@
-a
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "294CFWZTJ6.vn.stockmap.sm"
+        ],
+        "paths": [
+          "*",
+          "/"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  }
+}
