@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "294CFWZTJ6.vn.coinmap.cm"
+          "294CFWZTJ6.vn.stockmap.sm"
         ],
         "paths": [
           "*"
@@ -19,7 +19,7 @@
   },
   "webcredentials": {
     "apps": [
-      "294CFWZTJ6.vn.coinmap.cm"
+      "294CFWZTJ6.vn.stockmap.sm"
     ]
   }
 }
