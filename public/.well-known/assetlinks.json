@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "vn.stockmap.android",
+      "sha256_cert_fingerprints":
+        ["31:C8:B0:63:FF:10:1D:B4:A7:62:E3:9D:36:56:B2:B9:BE:73:41:64:F4:94:B5:E6:ED:75:2B:C2:D8:82:BF:1D"]
+    }
+  }
+]
